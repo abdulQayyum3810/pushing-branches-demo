@@ -1,3 +1,4 @@
 This is bugfix5 remote  branch
 Modified bugfix5 remote branch 
 matched remote and local bugfix5 branch
+Now changes for bugfix6
